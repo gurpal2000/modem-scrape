@@ -5,6 +5,6 @@ The modem is known to sometimes show an error, so we simply take a moment and re
 
 Pre-req (deps): install jq, curl and base64 first
 
-Scrape magic is in getStats() and i wanted this dumped as JSON first. Then you re-format for prometheus.
+Scrape magic is in getStats() and I wanted this dumped as JSON first. Then I re-format for prometheus. You can cut all this out; do whatever.
 
 Raise an issue(s) if you want to ask some questions about the code/technique. It's not commented.
