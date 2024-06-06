@@ -1,7 +1,7 @@
 # modem-scrape
 Example script to scrape TD-W9970 v2 and send to prometheus push gateway
 
-Pre-req: install "jq" and "curl" first
+Pre-req (deps): install jq, curl and base64 first
 
 Scrape magic is in getStats()
 
